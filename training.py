@@ -1,1 +1,1 @@
-print('Entrenamiento muy muy loco')
+print('Entrenamiento loco')
